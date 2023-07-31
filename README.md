@@ -25,6 +25,6 @@ Random Forest is an ensemble learning method that combines multiple decision tre
 It creates a set of decision trees and aggregates their predictions to make the final classification.
 Random forests are robust, handle high-dimensional data well, and are less prone to overfitting compared to individual decision trees.
 
-#Project 2
+# Project 2
 A Single Linear Regression Model which predicts weight using the height provided.
 
